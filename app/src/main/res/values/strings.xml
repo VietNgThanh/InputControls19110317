@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Checkboxes_and_etc_19110317</string>
+    <string name="show_toast_label">SHOW TOAST</string>
+
+    <string-array name="checkbox_list">
+        <item>Chocolate syrup</item>
+        <item>Sprinkles</item>
+        <item>Crushed nuts</item>
+        <item>Cherries</item>
+        <item>Orio cookie crumbles</item>
+    </string-array>
+</resources>
