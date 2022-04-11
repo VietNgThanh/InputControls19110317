@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void showToast(View view) {
-        String result = "";
+        String result = "Toppings: ";
         checkboxList = getResources().getStringArray(R.array.checkbox_list);
 
         if (checkboxIsCheck(R.id.checkbox0)) {
